@@ -1,1 +1,1 @@
-a portfolio app built with tailwind only css.
+a portfolio app built with html and css
